@@ -1,0 +1,15 @@
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Буткемп_программирование\Bootcamp_Programming\b2_algorythm_efficiency\bin\Debug\net6.0\b2_algorythm_efficiency.exe
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Буткемп_программирование\Bootcamp_Programming\b2_algorythm_efficiency\bin\Debug\net6.0\b2_algorythm_efficiency.deps.json
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Буткемп_программирование\Bootcamp_Programming\b2_algorythm_efficiency\bin\Debug\net6.0\b2_algorythm_efficiency.runtimeconfig.json
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Буткемп_программирование\Bootcamp_Programming\b2_algorythm_efficiency\bin\Debug\net6.0\b2_algorythm_efficiency.dll
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Буткемп_программирование\Bootcamp_Programming\b2_algorythm_efficiency\bin\Debug\net6.0\b2_algorythm_efficiency.pdb
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Буткемп_программирование\Bootcamp_Programming\b2_algorythm_efficiency\obj\Debug\net6.0\b2_algorythm_efficiency.csproj.AssemblyReference.cache
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Буткемп_программирование\Bootcamp_Programming\b2_algorythm_efficiency\obj\Debug\net6.0\b2_algorythm_efficiency.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Буткемп_программирование\Bootcamp_Programming\b2_algorythm_efficiency\obj\Debug\net6.0\b2_algorythm_efficiency.AssemblyInfoInputs.cache
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Буткемп_программирование\Bootcamp_Programming\b2_algorythm_efficiency\obj\Debug\net6.0\b2_algorythm_efficiency.AssemblyInfo.cs
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Буткемп_программирование\Bootcamp_Programming\b2_algorythm_efficiency\obj\Debug\net6.0\b2_algorythm_efficiency.csproj.CoreCompileInputs.cache
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Буткемп_программирование\Bootcamp_Programming\b2_algorythm_efficiency\obj\Debug\net6.0\b2_algorythm_efficiency.dll
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Буткемп_программирование\Bootcamp_Programming\b2_algorythm_efficiency\obj\Debug\net6.0\refint\b2_algorythm_efficiency.dll
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Буткемп_программирование\Bootcamp_Programming\b2_algorythm_efficiency\obj\Debug\net6.0\b2_algorythm_efficiency.pdb
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Буткемп_программирование\Bootcamp_Programming\b2_algorythm_efficiency\obj\Debug\net6.0\b2_algorythm_efficiency.genruntimeconfig.cache
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Буткемп_программирование\Bootcamp_Programming\b2_algorythm_efficiency\obj\Debug\net6.0\ref\b2_algorythm_efficiency.dll

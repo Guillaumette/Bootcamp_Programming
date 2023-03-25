@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "b2_algorythm_efficiency/1.0.0": {
+        "runtime": {
+          "b2_algorythm_efficiency.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "b2_algorythm_efficiency/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
